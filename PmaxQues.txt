@@ -1,0 +1,9 @@
+SZID - what is this Dummy mod/part for ? 
+L2 and L3 BOM both are for same CCN ? 
+
+Dell SKU --> L2 is for country ccn , L2 --> L3 is for C40
+
+P5 - what is the base order ? how do we relate the base order and upgrade order with the service tag? 
+
+P5 sample order - 875478940
+
